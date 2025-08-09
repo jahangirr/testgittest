@@ -15,6 +15,7 @@ namespace gitTreansferProject.Controllers
 
         public IActionResult Index()
         {
+          string myname = "asdhasd kjkasdfja sdkf ";
             return View();
         }
 
